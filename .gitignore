@@ -157,3 +157,34 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+pyaxidrawsocket.build/__bytecode.const
+pyaxidrawsocket.build/__constants_data.c
+pyaxidrawsocket.build/__constants_data.o
+pyaxidrawsocket.build/__constants.bin
+pyaxidrawsocket.build/__constants.c
+pyaxidrawsocket.build/__constants.const
+pyaxidrawsocket.build/__constants.h
+pyaxidrawsocket.build/__constants.o
+pyaxidrawsocket.build/__helpers.c
+pyaxidrawsocket.build/__helpers.h
+pyaxidrawsocket.build/__helpers.o
+pyaxidrawsocket.build/__loader.c
+pyaxidrawsocket.build/__loader.o
+pyaxidrawsocket.build/.sconsign-38.dblite
+pyaxidrawsocket.build/@link_input.txt
+pyaxidrawsocket.build/build_definitions.h
+pyaxidrawsocket.build/module.__main__.c
+pyaxidrawsocket.build/module.__main__.const
+pyaxidrawsocket.build/module.__main__.o
+pyaxidrawsocket.build/scons-report.txt
+pyaxidrawsocket.build/static_src/CompiledCellType.c
+pyaxidrawsocket.build/static_src/CompiledCellType.o
+pyaxidrawsocket.build/static_src/CompiledFunctionType.c
+pyaxidrawsocket.build/static_src/CompiledFunctionType.o
+pyaxidrawsocket.build/static_src/CompiledGeneratorType.c
+pyaxidrawsocket.build/static_src/CompiledGeneratorType.o
+pyaxidrawsocket.build/static_src/InspectPatcher.c
+pyaxidrawsocket.build/static_src/InspectPatcher.o
+pyaxidrawsocket.build/static_src/MainProgram.c
+pyaxidrawsocket.build/static_src/MainProgram.o
+.gitignore
